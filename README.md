@@ -1,11 +1,11 @@
 <h1 align="center">I'm Goutam J S</h1>
-<h3 align="center">Tech Enthusiast || Programmer ||Sports</h3>
+<h3 align="center">Tech Enthusiast || Programmer</h3>
 
 
 
 - 🔭 I'm currently working on **Web Development and mini projects **
 
-- 🌱 I’m currently learning **SQL,JAVA**
+- 🌱 I’m currently learning **SQL,JAVA,Python**
 
 - 📫 How to reach me **goutamsamnekar2031@gmail.com**
 
