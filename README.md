@@ -9,6 +9,9 @@
 
 - 📫 How to reach me **goutamsamnekar2031@gmail.com**
 
+<img src="https://media.tenor.com/UiLQ_TyR6MMAAAAi/iron-man.gif" alt="iron man" align="center" height="50" width="50" />
+<img align="right" alt="Coding" width="500" src="https://d1ivubrj2a21dq.cloudfront.net/wp-content/uploads/2023/01/02152015/front-end-development.gif"  />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Goutham_JS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/Goutham_JS" height="30" width="40" /></a>
