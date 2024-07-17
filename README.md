@@ -1,4 +1,4 @@
-<h1 align="center">I'm Goutam J S</h1>
+<h1 align="center">I'm Goutham J S</h1>
 <h3 align="center">Tech Enthusiast || Programmer</h3>
 
 
