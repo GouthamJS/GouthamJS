@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I'm currently working on **Web Development and mini projects** 
+- 🔭 I'm currently working on **Machine Learning and Data Analytics** 
 
-- 🌱 I’m currently learning **SQL,JAVA,Python**
+- 🌱 I’m currently learning **Excel,Python**
 
 - 📫 How to reach me **goutamsamnekar2031@gmail.com**
 
