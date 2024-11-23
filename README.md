@@ -1,4 +1,4 @@
-<h1 align="center">I'm Goutham J S</h1>
+<h1 align="center">I'm Goutham J S</h1><img src="https://media.tenor.com/1qHNFoTYvjAAAAAi/bubl-love-island.gif" alt="robot" align="center" height="80" width="80" />
 <h3 align="center">Tech Enthusiast || Programmer</h3>
 
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **goutamsamnekar2031@gmail.com**
 
-<img src="https://media.tenor.com/1qHNFoTYvjAAAAAi/bubl-love-island.gif" alt="robot" align="center" height="50" width="50" />
+
 <img src="https://media.tenor.com/UiLQ_TyR6MMAAAAi/iron-man.gif" alt="iron man" align="center" height="50" width="50" />
 
 <img align="right" alt="Coding" width="300" src="https://d1ivubrj2a21dq.cloudfront.net/wp-content/uploads/2023/01/02152015/front-end-development.gif"  />
