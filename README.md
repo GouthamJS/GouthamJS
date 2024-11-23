@@ -1,4 +1,4 @@
-<h1 align="center">I'm Goutham J S</h1><img src="https://media.tenor.com/1qHNFoTYvjAAAAAi/bubl-love-island.gif" alt="robot" align="center" height="80" width="80" />
+<h1 align="center">I'm Goutham J S<img src="https://media.tenor.com/1qHNFoTYvjAAAAAi/bubl-love-island.gif" alt="robot" align="center" height="80" width="80" /></h1>
 <h3 align="center">Tech Enthusiast || Programmer</h3>
 
 
