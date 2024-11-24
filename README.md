@@ -1,5 +1,5 @@
 <h1 align="center">I'm Goutham J S<img src="https://media.tenor.com/6mjhORYQX1UAAAAi/dm4uz3-foekoe.gif" alt="robot" align="center" height="50" width="50" /></h1>
-<h3 align="center">Tech Enthusiast || Programmer</h3>
+<h3 align="center">Tech Enthusiast || AIML Engineer</h3>
 
 
 
