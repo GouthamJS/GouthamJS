@@ -5,7 +5,7 @@
 
 - 🔭 I'm currently working on **Machine Learning and Data Analytics** 
 
-- 🌱 I’m currently learning **Python,Excel,Power BI,Scikit-learn,and SQL**
+- 🌱 I’m currently learning **Python, Excel, Power BI, Scikit-learn, and SQL**
 
 - 📫 How to reach me **goutamsamnekar2031@gmail.com**
 
