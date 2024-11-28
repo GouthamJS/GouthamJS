@@ -11,6 +11,7 @@
 
 
 <img src="https://media.tenor.com/UiLQ_TyR6MMAAAAi/iron-man.gif" alt="iron man" align="center" height="50" width="50" />
+<img src="https://tenor.com/bzzO8.gif" alt="data analytics" align="center" height="50" width="50" />
 
 <img align="right" alt="Coding" width="300" src="https://d1ivubrj2a21dq.cloudfront.net/wp-content/uploads/2023/01/02152015/front-end-development.gif"  />
 
