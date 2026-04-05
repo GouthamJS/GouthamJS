@@ -1,5 +1,5 @@
 <h1 align="center">I'm Goutham J S<img src="https://media.tenor.com/6mjhORYQX1UAAAAi/dm4uz3-foekoe.gif" alt="robot" align="center" height="60" width="60" /></h1>
-<h3 align="center">Tech Enthusiast || AIML Engineer</h3>
+<h3 align="center">Tech Enthusiast || ML & Data Engineer</h3>
 
 
 
